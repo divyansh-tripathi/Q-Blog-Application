@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Navbar from "../components/Navbar";
-import { AxiosInstance } from "../routes/axiosInstance";
+import { AxiosInstance } from "../routes/axiosinstance";
 import BlogCard from "../components/BlogCard";
 
 const HomePage = () => {
