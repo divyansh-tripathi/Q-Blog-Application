@@ -2,7 +2,7 @@ import * as React from "react";
 import Box from "@mui/material/Box";
 import Modal from "@mui/material/Modal";
 import TextField from "@mui/material/TextField";
-import { AxiosInstance } from "../routes/axiosInstance";
+import { AxiosInstance } from "../routes/axiosinstance";
 import toast from "react-hot-toast";
 
 const style = {

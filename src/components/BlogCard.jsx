@@ -1,6 +1,6 @@
 import React from "react";
 import EditModal from "./EditModal";
-import { AxiosInstance } from "../routes/axiosInstance";
+import { AxiosInstance } from "../routes/axiosinstance";
 import toast from "react-hot-toast";
 
 const BlogCard = (props) => {

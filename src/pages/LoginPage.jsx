@@ -1,7 +1,7 @@
 import TextField from "@mui/material/TextField";
 import Button from "@mui/material/Button";
 import { useEffect, useState } from "react";
-import { AxiosInstance } from "../routes/axiosInstance";
+import { AxiosInstance } from "../routes/axiosinstance";
 import { useNavigate, Link } from "react-router-dom";
 import toast from "react-hot-toast";
 
